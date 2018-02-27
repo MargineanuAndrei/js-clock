@@ -1,0 +1,17 @@
+.counter{
+  text-align: center;
+  color: #f1ee46;
+  width: 50%;
+  margin: 0 auto;
+}
+.day, .min, .hr, .sec{
+  font-size: 24px;
+  margin:5px;
+  background-color: black;
+  width: 55px;
+  height:55px;
+  padding: 12px;
+  opacity:0.4;
+  border-radius: 50%;
+  display: inline-block;
+}
